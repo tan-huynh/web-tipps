@@ -1,0 +1,5 @@
+﻿1. Vào copy script này: https://pastebin.com/CxeTna1W
+
+2. Mở link bạn muốn tải ảnh hàng loạt > nhấn F12 > paste script > ENTER.
+
+3. Mở IDM > vào menu Tasks > Add batch download from clipboard.
